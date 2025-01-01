@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenGLLab7", "OpenGLLab7\OpenGLLab7.csproj", "{936C73D9-B4C0-4AAE-B6EB-4F82920FB68D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{936C73D9-B4C0-4AAE-B6EB-4F82920FB68D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{936C73D9-B4C0-4AAE-B6EB-4F82920FB68D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{936C73D9-B4C0-4AAE-B6EB-4F82920FB68D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{936C73D9-B4C0-4AAE-B6EB-4F82920FB68D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6235593D-5D82-4421-9778-FD9479DE7F0D}
+	EndGlobalSection
+EndGlobal
