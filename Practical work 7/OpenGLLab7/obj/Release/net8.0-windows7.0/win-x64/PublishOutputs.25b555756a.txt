@@ -1,0 +1,2 @@
+E:\ХАІ\Цвірко\OpenGL\Lab 7\OpenGLLab7\bin\Release\net6.0-windows\publish\win-x64\OpenGLLab7.pdb
+E:\ХАІ\Цвірко\OpenGL\Lab 7\OpenGLLab7\bin\Release\net6.0-windows\publish\win-x64\OpenGLLab7.exe

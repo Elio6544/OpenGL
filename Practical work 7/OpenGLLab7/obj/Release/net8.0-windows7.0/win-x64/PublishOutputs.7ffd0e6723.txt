@@ -1,0 +1,2 @@
+E:\ХАІ\3 курс\OpenGL\OpenGLLab7\OpenGLLab7\bin\Release\net6.0-windows\publish\win-x64\OpenGLLab7.pdb
+E:\ХАІ\3 курс\OpenGL\OpenGLLab7\OpenGLLab7\bin\Release\net6.0-windows\publish\win-x64\OpenGLLab7.exe
