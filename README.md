@@ -1,1 +1,1 @@
-# My laboratory work in OpenGL
+# My practical work in OpenGL.
