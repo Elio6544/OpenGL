@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "OpenGLLab7": {
+      "commandName": "Project",
+      "commandLineArgs": "/c"
+    }
+  }
+}
